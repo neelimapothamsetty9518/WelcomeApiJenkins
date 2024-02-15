@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\bin\Debug\net6.0\WelcomeApp1.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\bin\Debug\net6.0\WelcomeApp1.deps.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\bin\Debug\net6.0\WelcomeApp1.runtimeconfig.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\bin\Debug\net6.0\WelcomeApp1.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\bin\Debug\net6.0\WelcomeApp1.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.AssemblyInfo.cs
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\refint\WelcomeApp1.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\WelcomeApp1.genruntimeconfig.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\WelcomeApp1\WelcomeApp1\obj\Debug\net6.0\ref\WelcomeApp1.dll
